@@ -20,9 +20,9 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 | Project | What I built | Core stack |
 | :-- | :-- | :-- |
-| **Industrial APC Platform** | End-to-end AI platform for chemical engineering and industrial process control, integrating operator chat, RAG, knowledge graphs, plant telemetry, CI/CD, and observability. | Python · Flask · React · PostgreSQL · Neo4j · Redis · Docker + Kubernetes · Terraform · GitHub Actions · Prometheus |
-| **ASK** | Full-stack RAG workspace for natural-language document search and conversational AI, with memory, document management, RBAC, OAuth SSO, and rate limiting. | Python · Flask · React + MUI · PostgreSQL + pgvector · Redis · PyTorch · DigitalOcean |
-| **COG-PRG AI Text Detection** | Interpretable AI-text detection framework combining hand-crafted cognitive-pragmatic features with transformer baselines to model discourse-level signals. | Python · PyTorch · TensorFlow · scikit-learn · Jupyter · Google Colab |
+| **Industrial APC Platform** | End-to-end AI platform for chemical engineering and industrial process control, integrating operator chat, RAG, knowledge graphs, plant telemetry and hybrid fleet on-premise deployments. | FastAPI · React · PostgreSQL · Neo4j · Redis · Docker + Kubernetes · Terraform · GitHub Actions · Prometheus · Google Cloud · Azure|
+| **ASK** | Full-stack RAG workspace for natural-language document search and conversational AI, with semantic memory, document management. | Python · Flask · React + MUI · PostgreSQL + pgvector · Redis · PyTorch · LangChain · Ollama · DigitalOcean  |
+| **COG-PRG AI Text Detection** | Interpretable AI-text detection framework combining hand-crafted cognitive-pragmatic features with transformer baselines to model discourse-level signals. | SpaCy · PyTorch · TensorFlow · scikit-learn |
 
 <div align="center">
   <a href="https://slebbon.github.io"><img src="https://img.shields.io/badge/Explore%20the%20full%20portfolio-%E2%86%92-0f172a?style=for-the-badge" alt="Explore the full portfolio" /></a>
