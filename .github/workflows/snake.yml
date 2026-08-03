@@ -12,21 +12,6 @@ permissions:
   contents: write
 
 jobs:
-  summary-cards:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate GitHub profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: Slebbon
-          BRANCH_NAME: profile-summary-card-output
-          UTC_OFFSET: 2
-          THEME: default
-          EXCLUDE: ""
-          AUTO_PUSH: true
-
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10

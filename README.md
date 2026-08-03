@@ -32,24 +32,17 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,react,postgres,docker,kubernetes,terraform,gcp,githubactions,git,gitlab,grafana,prometheus&perline=8" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,react,postgres,docker,kubernetes,terraform,gcp,azure,githubactions,git,gitlab,grafana,prometheus&perline=8" alt="Technology stack" />
 
 </div>
 
-## GitHub activity
+## Activity overview
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" />
-    <img height="180" src="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" alt="GitHub contribution statistics" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slebbon&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F59E0B&area=true&area_color=1D4ED8&hide_border=true" alt="Recent GitHub contribution activity" />
 
-  <br />
-
-  <img height="180" src="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/1-repos-per-language.svg" alt="Contributions by language" />
-  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=Slebbon&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F59E0B&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution activity graph" />
+  <sub>A rolling view of recent public contribution activity.</sub>
 
 </div>
 
