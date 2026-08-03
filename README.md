@@ -11,9 +11,9 @@
 I build reliable AI systems end to end: language and ML pipelines, the cloud infrastructure behind them, and the automation that keeps them production-ready. My focus is at the intersection of **MLOps, DevOps, and NLP**.
 
 ```yaml
-currently_exploring: Production AI platforms and scalable MLOps workflows
-working_with: [Python, Docker, Kubernetes, Terraform, GCP]
-ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
+currently_exploring: Production AI platforms, scalable MLOps workflows, Integration of Geo-spatial solutions 
+working_with: [Python, Docker, Kubernetes, Terraform, GCP, Azure, GIS]
+ask_me_about: [MLOps, CI/CD, Infrastructure, NLP, Geography]
 ```
 
 ## Featured work
