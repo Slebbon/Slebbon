@@ -36,7 +36,7 @@ ask_me_about: [MLOps, CI/CD, Infrastructure, NLP, Geography]
 
 </div>
 
-## Contributions
+## Activity & Contributions
 
 <div align="center">
 
@@ -48,7 +48,6 @@ ask_me_about: [MLOps, CI/CD, Infrastructure, NLP, Geography]
 
 </div>
 
-## Activity
 
 <div align="center">
 
