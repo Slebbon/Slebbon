@@ -36,16 +36,6 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 </div>
 
-## Activity overview
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Slebbon&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F59E0B&area=true&area_color=1D4ED8&hide_border=true" alt="Recent GitHub contribution activity" />
-
-  <sub>A rolling view of recent public contribution activity.</sub>
-
-</div>
-
 ## Contribution snake
 
 <div align="center">
@@ -55,6 +45,16 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slebbon/Slebbon/output/github-contribution-grid-snake.svg" />
     <img alt="Animated snake moving through Marco's contribution graph" src="https://raw.githubusercontent.com/Slebbon/Slebbon/output/github-contribution-grid-snake.svg" />
   </picture>
+
+</div>
+
+## Activity dashboard
+
+<div align="center">
+
+  <img src="./metrics-overview.svg" alt="Contribution overview: commits, pull requests, reviews, issues, and repositories" />
+  <img src="./metrics-languages.svg" alt="Programming languages used across public repositories" />
+  <img src="./metrics-calendar.svg" alt="Contribution activity by month" />
 
 </div>
 
