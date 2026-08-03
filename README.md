@@ -4,8 +4,6 @@
 
   <a href="https://slebbon.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/marco-confessore-7a9633193/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Slebbon&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ## About me
@@ -22,9 +20,9 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 | Project | What I built | Core stack |
 | :-- | :-- | :-- |
-| **ChatAPC Platform** | Multi-agent academic-advising assistant with retrieval over institutional knowledge, deployed to GCP. | Python · Flask · PostgreSQL · pgvector · React · Docker · Kubernetes |
-| **Automated MLOps Pipeline** | Automated model lifecycle with infrastructure-as-code, CI/CD, and operational observability. | Terraform · GitHub Actions · Prometheus · Grafana · Ansible |
-| **AI Text Detection** | MSc thesis: interpretable detection of AI-generated text using cognitive-pragmatic features and transformer baselines. | Python · PyTorch · TensorFlow · scikit-learn · spaCy |
+| **Industrial APC Platform** | End-to-end AI platform for chemical engineering and industrial process control, integrating operator chat, RAG, knowledge graphs, plant telemetry, CI/CD, and observability. | Python · Flask · React · PostgreSQL · Neo4j · Redis · Docker + Kubernetes · Terraform · GitHub Actions · Prometheus |
+| **ASK** | Full-stack RAG workspace for natural-language document search and conversational AI, with memory, document management, RBAC, OAuth SSO, and rate limiting. | Python · Flask · React + MUI · PostgreSQL + pgvector · Redis · PyTorch · DigitalOcean |
+| **COG-PRG AI Text Detection** | Interpretable AI-text detection framework combining hand-crafted cognitive-pragmatic features with transformer baselines to model discourse-level signals. | Python · PyTorch · TensorFlow · scikit-learn · Jupyter · Google Colab |
 
 <div align="center">
   <a href="https://slebbon.github.io"><img src="https://img.shields.io/badge/Explore%20the%20full%20portfolio-%E2%86%92-0f172a?style=for-the-badge" alt="Explore the full portfolio" /></a>
@@ -42,12 +40,15 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Slebbon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true&count_private=true" alt="Marco's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Slebbon&hide_border=true&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Marco's contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/3-stats.svg" alt="GitHub contribution statistics" />
+  </picture>
 
   <br />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slebbon&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most-used languages" />
+  <img height="180" src="https://raw.githubusercontent.com/Slebbon/Slebbon/profile-summary-card-output/default/1-repos-per-language.svg" alt="Contributions by language" />
   <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=Slebbon&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F59E0B&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution activity graph" />
 
 </div>
