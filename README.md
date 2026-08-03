@@ -2,9 +2,6 @@
 
 <img width="100%" src="./assets/hero-naples-posillipo-wave.gif" alt="Animated pixel-art view from Posillipo across Naples with broad rolling waves" />
 
-  <h1>Marco Confessore</h1>
-  <p><strong>DevOps · MLOps · AI Infrastructure</strong></p>
-
   <a href="https://slebbon.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/marco-confessore-7a9633193/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
