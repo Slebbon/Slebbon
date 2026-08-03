@@ -1,6 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=210&section=header&text=Marco%20Confessore&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20MLOps%20%7C%20AI%20Infrastructure&descAlignY=58&descSize=19&animation=fadeIn" alt="Marco Confessore" />
+<img width="100%" src="./assets/hero-naples-posillipo-wave.gif" alt="Animated pixel-art view from Posillipo across Naples with broad rolling waves" />
+
+  <h1>Marco Confessore</h1>
+  <p><strong>DevOps · MLOps · AI Infrastructure</strong></p>
 
   <a href="https://slebbon.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/marco-confessore-7a9633193/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -36,7 +39,7 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 </div>
 
-## Contribution snake
+## Contributions
 
 <div align="center">
 
@@ -48,12 +51,10 @@ ask_me_about: [MLOps, CI/CD, cloud infrastructure, NLP]
 
 </div>
 
-## Activity dashboard
+## Activity
 
 <div align="center">
 
-  <img src="./metrics-overview.svg" alt="Contribution overview: commits, pull requests, reviews, issues, and repositories" />
-  <img src="./metrics-languages.svg" alt="Programming languages used across public repositories" />
   <img src="./metrics-calendar.svg" alt="Contribution activity by month" />
 
 </div>
